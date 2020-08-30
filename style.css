@@ -1,0 +1,60 @@
+body {
+	padding: 30px;
+	background-color: #AED6F1;
+	width 100%;
+	margin: 0;
+}
+.box {
+	background-color: #4adde3;
+	padding: 30px;
+	margin: auto;
+	border: solid 1px #A569BD;
+	border-radius: 17px;
+	width: 50%;
+	height: 300px;
+	text-align: center;
+	box-shadow: 43px 44px 4px 2px rgba(0, 0, 0, .4);
+
+}
+.box h1 {
+	font-size: 41px;
+	color: #fff;
+	font-weight: 700;
+}
+.answer {
+	font-size: 25px;
+	font-weight: 700;
+	color: #fff;
+}
+.btn-calcs1 {
+	padding: 10px;
+	background-color: #4adde3;
+	margin-left: -20px;
+	border-radius: 7px;
+	border: none;
+	box-shadow: 4px 3px 6px 1px rgba(0, 0, 0, .4);
+}
+.btn-calcs2 {
+	padding: 10px;
+	margin-left: 10px;
+	background-color: #4adde3;
+	border-radius: 7px;
+	border: none;
+	box-shadow: 4px 3px 6px 1px rgba(0, 0, 0, .4)
+}
+button {
+	font-size: 15px;
+	font-weight: 700;
+	color: #fff;
+}
+input[type="text"] {
+	padding: 10px;
+	border-radius: 7px;
+	
+}
+.howtouse  {
+	padding-top: 50px;
+	text-align: center;
+	
+}
+
